@@ -2,6 +2,10 @@
 Automação de Cadastro de Contatos no Komunic
 ![image](https://github.com/user-attachments/assets/d40f7aae-9787-4e44-9010-dd67efee1307)
 
+Certifique-se de ter o Python 3.8 ou superior instalado para evitar problemas de compatibilidade
+Rode o comando abaixo no seu terminal
+pip install -r requirements.txt
+
 
 Este script automatiza o processo de cadastro em massa de contatos no sistema Komunic, utilizando Selenium para interagir com a interface web.
 
